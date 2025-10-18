@@ -17,6 +17,8 @@ This notebook demonstrates:
 - Visualizing results using **Matplotlib** and **Seaborn**
 
 ---
+## Link to my Jupyter File 
+[View my Jupyter Notebook](https://github.com/Charnjot333/Machine-Learning---ML_Models_Practice-/blob/5dba0eec92ac701263b863256cd078929e09b622/Predicting%20the%20house%20Price.ipynbb)
 
 ## 🧠 Machine Learning Concepts Covered
 
