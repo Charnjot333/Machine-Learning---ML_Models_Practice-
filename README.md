@@ -41,3 +41,19 @@ This notebook demonstrates:
 | Jupyter Notebook | Code and output presentation |
 
 ---
+## 🚀 How to Run the Notebook
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Charnjot333/predicting-house-price.git
+2. Open the folder:
+   ```bash
+   cd predicting-house-price
+3.  Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+4.  Launch Jupyter Notebook:
+    ```bash
+    jupyter notebook
+
+
