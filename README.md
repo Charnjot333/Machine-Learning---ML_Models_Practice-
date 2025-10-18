@@ -49,11 +49,11 @@ This notebook demonstrates:
 2. Open the folder:
    ```bash
    cd predicting-house-price
-3.  Install dependencies:
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
-4.  Launch Jupyter Notebook:
-    ```bash
-    jupyter notebook
+4. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
 
 
