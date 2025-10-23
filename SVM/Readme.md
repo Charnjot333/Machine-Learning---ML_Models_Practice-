@@ -22,7 +22,10 @@ The notebook walks through data preprocessing, model training, and evaluation to
 ## Link to my Jupyter File 
 [Predicting the SVM - (SVR) Notebook ](https://github.com/Charnjot333/Machine-Learning---ML_Models_Practice-/blob/2d25ba4d9033233b3ebfe8407efe53b4b5154d91/SVM/SVM(SVR)Project-Predicting%20the%20Baltimore%20Salary.ipynb)
 ## Screenshots 
-<img width="1104" height="838" alt="image" src="[https://github.com/user-attachments/assets/f53ea57b-489f-48fc-bf93-b2c01528090b](https://github.com/Charnjot333/Machine-Learning---ML_Models_Practice-/blob/5a4efaf561e2d6e51f7907ca842ef63c2bb4ee4b/SVM/screenshots/Screenshot%202025-10-23%20231632.png)" />
+<img src="https://github.com/Charnjot333/Machine-Learning---ML_Models_Practice-/blob/5a4efaf561e2d6e51f7907ca842ef63c2bb4ee4b/SVM/screenshots/Screenshot%202025-10-23%20231632.png" alt="Image" width="700"/>
+<img src="https://github.com/Charnjot333/Machine-Learning---ML_Models_Practice-/blob/685c1e8fe66c4680cd5adcbed888cd537cd7b88e/SVM/screenshots/Screenshot%202025-10-23%20231646.png" alt="Image" width="700"/>
+<img src="https://github.com/Charnjot333/Machine-Learning---ML_Models_Practice-/blob/685c1e8fe66c4680cd5adcbed888cd537cd7b88e/SVM/screenshots/Screenshot%202025-10-23%20231740.png" alt="Image" width="700"/>
+
 
 
 ## 🧩 Technologies Used
