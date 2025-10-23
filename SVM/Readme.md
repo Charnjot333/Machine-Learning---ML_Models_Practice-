@@ -20,7 +20,7 @@ The notebook walks through data preprocessing, model training, and evaluation to
 
 ---
 ## Link to my Jupyter File 
-[Predicting the SVM - (SVR) Notebook ](https://github.com/Charnjot333/Machine-Learning---ML_Models_Practice-/blob/5dba0eec92ac701263b863256cd078929e09b622/Predicting%20the%20house%20Price.ipynb)
+[Predicting the SVM - (SVR) Notebook ](https://github.com/Charnjot333/Machine-Learning---ML_Models_Practice-/blob/2d25ba4d9033233b3ebfe8407efe53b4b5154d91/SVM/SVM(SVR)Project-Predicting%20the%20Baltimore%20Salary.ipynb)
 
 ## 🧩 Technologies Used
 - Python
