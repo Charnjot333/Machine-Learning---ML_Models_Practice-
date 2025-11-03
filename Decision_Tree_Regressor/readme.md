@@ -5,6 +5,10 @@ This project predicts the **selling price of used cars** based on various featur
 The goal is to build a **machine learning model** that can accurately estimate used car prices and improve performance using **hyperparameter tuning**.
 
 ---
+## Link to my Jupyter File 
+[Predicting the House Price Notebook](https://github.com/Charnjot333/Machine-Learning---ML_Models_Practice-/blob/8d6d212dcc92112b8353256087a4583d931347c2/Decision_Tree_Regressor/Decision%20Tree%20Project%20-%20Price%20Prediction%20of%20Used%20Cars%20(1).ipynb)
+
+---
 
 ## 🧠 Machine Learning Model
 - **Algorithm Used:** Decision Tree Regressor  
@@ -30,7 +34,7 @@ from sklearn.tree import DecisionTreeRegressor
 dt = DecisionTreeRegressor(random_state=42)
 dt.fit(X_train, y_train)
 ```
-###3. 🔧 Hyperparameter Tuning
+### 3. 🔧 Hyperparameter Tuning
 To improve model performance and prevent overfitting, RandomizedSearchCV was used to find the optimal combination of hyperparameters for the Decision Tree Regressor.
 ```python
 from sklearn.model_selection import RandomizedSearchCV
