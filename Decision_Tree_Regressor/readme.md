@@ -45,7 +45,7 @@ param_dist = {
 }
 ```
 ---
-###🧰 Technologies Used
+### 3. Technologies Used
 
 * Python
 * Pandas
