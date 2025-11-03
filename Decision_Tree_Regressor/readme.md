@@ -54,6 +54,16 @@ param_dist = {
 * Seaborn
 * Scikit-learn
 * Jupyter Notebook / VS Code
+## 👩‍💻 Author
+
+**Charanjot Kaur**  
+🎓 MCA Student | 💻 Machine Learning & Data Science Enthusiast  
+
+- 📫 **Email:** [charanjotkaur1@gmail.com]  
+- 🌐 **GitHub:** [https://github.com/Charnjot333](https://github.com/Charnjot333)  
+- 🔗 **LinkedIn:** [https://linkedin.com/in/charanjot-kaur-arora](https://linkedin.com/in/charanjot-kaur-arora)  
+
+> *“Learning by building — one project at a time.”*
 
 
 
