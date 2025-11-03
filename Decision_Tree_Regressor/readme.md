@@ -20,19 +20,18 @@ The goal is to build a **machine learning model** that can accurately estimate u
 - Encoded categorical variables using Label Encoding / OneHotEncoding.
 - Split the dataset into **train** and **test** sets (80%-20%).
 - Applied **feature scaling** to normalize numeric columns.
-
-### 2. Model Training
+- 
+### 2. ⚙️ Model Training
 Trained a **Decision Tree Regressor** on the processed data:
+
 ```python
 from sklearn.tree import DecisionTreeRegressor
 
 dt = DecisionTreeRegressor(random_state=42)
 dt.fit(X_train, y_train)
-**### 3. Hyperparameter Tuning**
-
-To improve model performance and avoid overfitting, **RandomizedSearchCV** was used to find the best combination of hyperparameters for the Decision Tree Regressor.
-
-**#### 🔧 Parameter Grid**
+```
+###3. 🔧 Hyperparameter Tuning
+To improve model performance and prevent overfitting, RandomizedSearchCV was used to find the optimal combination of hyperparameters for the Decision Tree Regressor.
 ```python
 from sklearn.model_selection import RandomizedSearchCV
 
@@ -44,7 +43,24 @@ param_dist = {
     'criterion': ['squared_error', 'friedman_mse', 'absolute_error']
 }
 ```
+## 🎯 Best Parameters Found
+```python
+{
+ 'min_samples_split': 20,
+ 'min_samples_leaf': 10,
+ 'max_features': None,
+ 'max_depth': 12,
+ 'criterion': 'squared_error'
+}
+```
 ---
+### 📊 Results & Insights
+
+* The model achieved an R² score of 0.69 on the test set, indicating a decent level of accuracy.
+
+* Hyperparameter tuning significantly improved performance and reduced overfitting.
+
+* Model errors (MAE and RMSE) are reasonable considering the variability in real-world car prices.
 ### 3. Technologies Used
 
 * Python
