@@ -6,7 +6,7 @@ The goal is to build a **machine learning model** that can accurately estimate u
 
 ---
 ## Link to my Jupyter File 
-[Predicting the House Price Notebook](https://github.com/Charnjot333/Machine-Learning---ML_Models_Practice-/blob/8d6d212dcc92112b8353256087a4583d931347c2/Decision_Tree_Regressor/Decision%20Tree%20Project%20-%20Price%20Prediction%20of%20Used%20Cars%20(1).ipynb)
+[Used Car Price Prediction Notebook](https://github.com/Charnjot333/Machine-Learning---ML_Models_Practice-/blob/8d6d212dcc92112b8353256087a4583d931347c2/Decision_Tree_Regressor/Decision%20Tree%20Project%20-%20Price%20Prediction%20of%20Used%20Cars%20(1).ipynb)
 
 ---
 
