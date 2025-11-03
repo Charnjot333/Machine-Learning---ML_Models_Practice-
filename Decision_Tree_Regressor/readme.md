@@ -43,6 +43,8 @@ param_dist = {
     'max_features': [None, 'auto', 'sqrt', 'log2'],
     'criterion': ['squared_error', 'friedman_mse', 'absolute_error']
 }
+```
+---
 ###🧰 Technologies Used
 
 * Python
